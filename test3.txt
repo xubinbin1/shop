@@ -1,1 +1,2 @@
 етЪЧ3
+git@github.com:xubinbin1/shop.git
